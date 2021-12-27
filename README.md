@@ -1,6 +1,8 @@
 # Muesli Factory
 
-Core contracts of MuesliSwap. Forked from Uniswap.
+MuesliSwap smartBCH has been renamed to CowSwap. The smart contracts stay the same and have been [audited by TechRate](https://github.com/TechRate/Smart-Contract-Audits/blob/main/October/MuesliSwap.pdf).
+
+Core contracts of CowSwap. Forked from Uniswap.
 
 ### Verify deployed contracts
 You can verify that the deployed Muesli contracts are matching with this repo using a provided Python script.
